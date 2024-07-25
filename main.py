@@ -174,8 +174,8 @@ def ttt():
                 time.sleep(2)
             
             if scrobbles % 1000 == 0:
-                print(Fore.BLUE + " pauza de 5 minute sa nu iei ratelimit U~U")
-                time.sleep(300)  
+                print(Fore.BLUE + " pauza de 16-17 minute sa nu iei ratelimit U~U")
+                time.sleep(1000)  
         
         uwuw = time.time() - uwu
         if uwuw < 1:
