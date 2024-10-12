@@ -4,7 +4,7 @@ import requests
 from datetime import datetime, timedelta
 import time
 
-api_key = ''"
+api_key = ''
 api_secret = ''
 username = ''
 password_hash = pylast.md5('+')
